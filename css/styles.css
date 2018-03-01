@@ -1,4 +1,8 @@
-#show-contact {
+body{
+  background-color: orange;
+  }
+
+  #show-contact {
     display: none;
   }
 
